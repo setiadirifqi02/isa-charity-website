@@ -1,6 +1,6 @@
 <script setup>
 import Heroimage from "/assets/images/non-comercial-feed-line.jpeg";
-import BackHomeButton from "@/components/backhomebutton.vue";
+import BackHomeButton from "@/components/BackHomeButton.vue";
 </script>
 
 <template>

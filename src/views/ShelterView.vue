@@ -6,8 +6,8 @@ import dog from "/assets/images/logo/dog.svg";
 import cat from "/assets/images/logo/cat.svg";
 
 import AnimalsCard from "@/components/cards/AnimalsCard.vue";
-import BackHomeButton from "@/components/backhomebutton.vue";
-import ImageSlider from "../components/ImageSlider.vue";
+import BackHomeButton from "@/components/BackHomeButton.vue";
+import ImageSlider from "@/components/ImageSlider.vue";
 
 const route = useRoute();
 const id = route.params.id;

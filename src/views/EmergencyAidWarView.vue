@@ -1,7 +1,7 @@
 <script setup>
 import Heroimage from "/assets/images/war-aid.jpeg";
-import ImageSlider from "../components/ImageSlider.vue";
-import BackHomeButton from "@/components/backhomebutton.vue";
+import ImageSlider from "@/components/ImageSlider.vue";
+import BackHomeButton from "@/components/BackHomeButton.vue";
 </script>
 
 <template>
