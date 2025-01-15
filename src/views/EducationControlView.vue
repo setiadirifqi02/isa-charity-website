@@ -1,5 +1,5 @@
 <script setup>
-import BackHomeButton from "@/components/backhomebutton.vue";
+import BackHomeButton from "@/components/backHomebutton.vue";
 </script>
 
 <template>
