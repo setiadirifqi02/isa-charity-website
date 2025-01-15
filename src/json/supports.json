@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Oleksiy Tritenko",
+    "title": "Theater and film actor",
+    "image": "/assets/images/support/oleksiy.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Stanislav Boklan",
+    "title": "People's Artist of Ukraine",
+    "image": "/assets/images/support/stanislav.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alexander Rudinsky",
+    "title": "Theater and film actor",
+    "image": "/assets/images/support/alexander.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Oksana Zhdanova",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/oksana.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Natalka Denisenko",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/natalka.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Maksym Samchyk",
+    "title": "Theater and film actor",
+    "image": "/assets/images/support/maksym.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kateryna Vyshenva",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/kateryna.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Irma Vitovska",
+    "title": "Honored Actress of Ukraine",
+    "image": "/assets/images/support/irma.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Igor Portyanko",
+    "title": "Actor of theater and cinema",
+    "image": "/assets/images/support/igor.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dmytro Surzhikov",
+    "title": "Honored Artist of Ukraine",
+    "image": "/assets/images/support/dmytro.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Daria Barihashvii",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/daria.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Vera Kobzar",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/vera.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Andriy Fedynchyk",
+    "title": "Theater and film actor",
+    "image": "/assets/images/support/andriy.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Anastasia Nesterenko",
+    "title": "Theater and film actress",
+    "image": "/assets/images/support/anastasia.jpg"
+  }
+]

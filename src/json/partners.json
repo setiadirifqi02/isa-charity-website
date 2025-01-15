@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "advires",
+    "image": "/assets/images/partner/advires.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ovidwind",
+    "image": "/assets/images/partner/ovidwind.png"
+  },
+  {
+    "id": 3,
+    "name": "tbsindustry",
+    "image": "/assets/images/partner/tbsindustry.png"
+  },
+  {
+    "id": 4,
+    "name": "accurl",
+    "image": "/assets/images/partner/accurl.png"
+  },
+  {
+    "id": 5,
+    "name": "laudis",
+    "image": "/assets/images/partner/laudis.png"
+  },
+  {
+    "id": 6,
+    "name": "kickbite",
+    "image": "/assets/images/partner/kickbite.jpeg"
+  }
+]

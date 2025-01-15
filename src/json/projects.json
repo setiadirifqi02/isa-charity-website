@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "bgColor": "color-onBackground",
+    "title": "Emergency Aid. WAR 2022.",
+    "link": "project/emergency-aid-war-2022",
+    "description": "proving food and medicine to the shelters and animals which lost their homes and families due to the war"
+  },
+  {
+    "id": 2,
+    "bgColor": "color-secondary",
+    "title": "Non-commercial feed line",
+    "link": "project/non-commercial-feed-line",
+    "description": "construction of industrial production base where food for shelters will be produced on a free basis "
+  },
+  {
+    "id": 3,
+    "bgColor": "color-accent",
+    "title": "Education and Control",
+    "link": "project/education-and-control",
+    "description": "lectures on communication, organisation and coordination of processes, control over the use of aid"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Daryna Derly",
+    "title": "Chairman of the board",
+    "image": "/assets/images/team/daryna.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Polina Snisarenko-Kulchytska",
+    "title": "Curator of the Foundation",
+    "image": "/assets/images/team/polina.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bohdan Kulchytsky",
+    "title": "Executive Manager",
+    "image": "/assets/images/team/bohdan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mykhaylo Derly",
+    "title": "Operation Manajer",
+    "image": "/assets/images/team/mykhaylo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ksenia Nikishina",
+    "title": "Office Manager",
+    "image": "/assets/images/team/ksenia.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Anna Andriychuk",
+    "title": "SMM Manager",
+    "image": "/assets/images/team/anna.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Anastasia Kovalchuk",
+    "title": "Director",
+    "image": "/assets/images/team/anastasia.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Basil Gloo",
+    "title": "Web Developer",
+    "image": "/assets/images/team/basil.png"
+  },
+  {
+    "id": 9,
+    "name": "Lina Yakobchuk",
+    "title": "Designer",
+    "image": "/assets/images/team/lina.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Anastasia Yevchenko",
+    "title": "Translator",
+    "image": "/assets/images/team/anastasiayev.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Office Manager",
+    "title": "open vacancy",
+    "image": "/assets/images/team/dog.svg"
+  },
+  {
+    "id": 12,
+    "name": "SEO Specialist",
+    "title": "open vacancy",
+    "image": "/assets/images/team/cat.svg"
+  }
+]
