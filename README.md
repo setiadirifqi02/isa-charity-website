@@ -1,7 +1,7 @@
 # ISA Charity Website Page
 ### Desctiption
-ISA Charity e are team of like-minded people, socially active companies, media personalities, volunteers who help low-income shelters and foster carers to support homeless animals. This website is recreate using vue js & SASS, utlize gsap animation library for westie animation.
-
+ISA Charity are team of like-minded people, socially active companies, media personalities, volunteers who help low-income shelters and foster carers to support homeless animals. This website was clone using vue js & SASS, utilizing gsap animation for webstie animation. 
+Clone  by setiadirifqi2638@gmail.com
 ---
 ### Tech Stack
 * Vue js - Vite/vue-plugin
