@@ -63,7 +63,7 @@ onMounted(() => {
   position: absolute;
   top: 0;
   left: 0;
-  width: 60%;
+  width: 50%;
   opacity: 0;
   transition: transform 0.5s ease, opacity 1s ease;
 }
